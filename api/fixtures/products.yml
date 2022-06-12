@@ -1,0 +1,4 @@
+App\Entity\Product:
+    product_{1..100}:
+        vendorCode: <bothify('?-#######')>
+        name: <word()>
